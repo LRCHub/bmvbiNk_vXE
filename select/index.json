@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "涙のパレード",
+  "base_artist": "fhána",
+  "createdAt": "2026-03-18T13:50:37.544771Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "涙のパレード",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/01_涙のパレード_fhána.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "涙のパレード (Off Vocal)",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/02_涙のパレード_(Off_Vocal)_fhána.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "涙のパレード",
+      "artist": "fhana",
+      "has_synced": false,
+      "path": "select/pl_01_涙のパレード_fhana.txt"
+    }
+  ]
+}
